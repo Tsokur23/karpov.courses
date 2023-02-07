@@ -1,2 +1,2 @@
 # karpov.courses
-[Сертификат.pdf](https://github.com/Tsokur23/karpov.courses/files/10677849/default.pdf)
+![Сертификат](https://user-images.githubusercontent.com/93007806/217321261-9abebe39-e438-48c8-a067-715c45f39ece.png)
